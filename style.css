@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contain{
+     width: 100vw;
+     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#vis{
+    width: 20%;
+    height: 100px;
+    color: white;
+    background-color: red;
+    font-size: 32px;
+}
+#nan{
+    width: 20%;
+    height: 100px;
+    color: white;
+    background-color: rgb(11, 7, 7);
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
