@@ -28,3 +28,13 @@
     align-items: center;
 }
 
+.contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this as needed for your layout */
+}
+
+#vis, #nan {
+    text-align: center;
+}
